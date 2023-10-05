@@ -35,7 +35,8 @@ const NotFoundPage = () => {
         <span role="img" aria-label="Pensive emoji">
           😔
         </span>{" "}
-        Unable to find what you were looking for.
+
+        404 NOT FOUND
         <br />
         {process.env.NODE_ENV === "development" ? (
           <>
