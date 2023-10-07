@@ -8,7 +8,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <header>
-        <title>Cloud Coffee</title>
+        <title>Welcome Cloud Coffee</title>
         <meta name="description" content="Bringing Coffee to the Cloud" />
       </header>
       
@@ -24,7 +24,7 @@ const IndexPage = () => {
       
 
           <p className='description'>
-            Join Our Mailing List!
+            Hey, Join Our Mailing List!
             <br/>
             <input type="text"></input>
             <br/>
@@ -37,7 +37,7 @@ const IndexPage = () => {
             >
               Powered by{' '}
               <span className='logo'>
-                <StaticImage src="../images/ACG_Orange_Logo_Horizontal.png" alt="A Cloud Guru logo" width={119} height={16} />
+                <StaticImage src="../images/ACG_Orange_Logo_Horizontal.png" alt="Hey A Cloud Guru logo" width={119} height={16} />
               </span>
             </a>
           </footer>
