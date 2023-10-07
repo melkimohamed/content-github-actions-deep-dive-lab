@@ -24,7 +24,9 @@ const IndexPage = () => {
       
 
           <p className='description'>
-            Hey, Join Our Mailing List!
+
+
+            Join Our Mailing List Nows!
             <br/>
             <input type="text"></input>
             <br/>
